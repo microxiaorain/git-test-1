@@ -6,3 +6,4 @@ why need commit before push ?
 
 test for fetch, push, merge 
 
+1
