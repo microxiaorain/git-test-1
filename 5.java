@@ -8,3 +8,4 @@ test for fetch, push, merge
 
 1
 2
+3
