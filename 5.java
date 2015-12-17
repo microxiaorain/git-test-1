@@ -2,4 +2,4 @@
 
 why need commit before push ?
 
- I don't know
+ I don't know yet
